@@ -1,5 +1,7 @@
 # GeoTinker-CodeMatrix
+
 <img width="504" height="301" alt="drone" src="https://github.com/user-attachments/assets/9ef0d8f5-8c44-4859-a0b6-91d18d42f5b8" />
+
 ## Introduction
 
 The GeoTinker GL868_ESP32 is a production-ready, open-source development board that combines an ESP32-S3 and SIM868 GSM modem, with GPS Tracking, motion detection, battery management, wireless connectivity (Bluetooth/Wifi) and cellular monitoring (GPRS/SMS/Calls) on a compact PCB. It targets asset tracking, vehicle monitoring, anti-theft systems, and any IoT application that needs cellular monitoring or control, along with location tracking.
