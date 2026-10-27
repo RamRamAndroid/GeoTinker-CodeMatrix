@@ -1,6 +1,8 @@
 # GeoTinker-CodeMatrix
 
-<img width="504" height="301" alt="drone" src="https://github.com/user-attachments/assets/9ef0d8f5-8c44-4859-a0b6-91d18d42f5b8" />
+<img width="504" height="301" alt="  GeoTinker" src="https://github.com/user-attachments/assets/9ef0d8f5-8c44-4859-a0b6-91d18d42f5b8" />
+<img width="301" height="301" alt="GeoTinker" src="https://github.com/user-attachments/assets/382265a2-3849-431e-8001-54fb911dac8b" />
+
 
 ## Introduction
 
